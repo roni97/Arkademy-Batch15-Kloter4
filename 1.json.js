@@ -1,0 +1,1 @@
+{"name": "Roni", "age": 24, "address": "Petrani_Makassar", "hobbies": ["read"], "married": "NO", "list_school": {"school": "SMK_KRISTEN_PELANGI", "year_in": 2012, "year_out": 205, "major": "TKJ"}, "skills": [{"NETWORKING": "advance"}], "interest in coding": "YES"}
